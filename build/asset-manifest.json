@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.66478875.css",
+    "main.js": "/static/js/main.5f896a05.js",
+    "static/media/Vegeterian-Cateogry-Banner.jpg": "/static/media/Vegeterian-Cateogry-Banner.6d39d8aa84e9bbbc8854.jpg",
+    "index.html": "/index.html",
+    "main.66478875.css.map": "/static/css/main.66478875.css.map",
+    "main.5f896a05.js.map": "/static/js/main.5f896a05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66478875.css",
+    "static/js/main.5f896a05.js"
+  ]
+}
